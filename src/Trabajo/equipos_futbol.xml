@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<equipos_de_futbol>
+   <equipo estadio="Santiago Bernabeu" presidente="Florentino Perez">
+		<nombre>Real Madrid</nombre>
+		<ciudad>Madrid</ciudad>
+		<fundacion>1902</fundacion>
+		<posicion_tabla>4</posicion_tabla>
+		<jugador_franquicia posicion="defensa">
+			<nombre>Sergio Ramos</nombre>
+			<nacionalidad>Española</nacionalidad>
+			<liga>Liga Santander</liga>
+		</jugador_franquicia>
+   </equipo>
+   <equipo estadio="Wanda Metropolitano" presidente="Cerezo">
+      <nombre>Atletico de Madrid</nombre>
+      <ciudad>Madrid</ciudad>
+	  <fundacion>1906</fundacion>
+	  <posicion_tabla>1</posicion_tabla>
+      
+         <jugador_franquicia posicion="delantero">
+            <nombre>Luis Suarez</nombre>
+            <nacionalidad>Uruguayo</nacionalidad>
+			<liga>Liga Santander</liga>
+         </jugador_franquicia>
+   </equipo>
+</equipos_de_futbol>
